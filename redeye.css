@@ -2,14 +2,14 @@ html, body {
   background-color: #cccdce;
   font-family: 'Montserrat', sans-serif;
   margin: 0;
-  padding: 0; 
+  padding: 0;
 }
 
 .header {
   background-color: #fff;
   height: 140px;
   text-align: center;
-  
+
 }
 
 .header h1 {
@@ -30,12 +30,12 @@ html, body {
   display: inline-block;
   padding: 5px 10px 5px 5px;
   color: #FFFFFF;
-  font-size: 15px;
+  font-size: 18px;
 }
 
 .nav li:hover {
   color: #31363d;
-  cursor: pointer; 
+  cursor: pointer;
   -webkit-transition: color 1s;
   transition: color 1s;
 }
